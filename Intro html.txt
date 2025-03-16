@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Hari Kebersihan Dunia 2025</h1>
+<p>Teman-teman ayo kita menjaga lingkungan.</p>
+
+</body>
+</html>
