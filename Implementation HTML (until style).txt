@@ -14,22 +14,13 @@
   <img src="https://itbss.ac.id/wp-content/uploads/2021/12/Gedung-ITBSS.jpg" width="400" height="300">
   <hr>
   <h2 style="color:brown;font-family:verdana;"> Hey! Look at this! Peek a boo! </h2>
-  <p style="color:white; font-family:verdana;"> this is me :> </p>
+  <p style="color:white; font-family:verdana;"> hiii :> </p>
   <img src= >
-  <p style= "font-family:verdana; color:white;"> p.s. later i will add my photo hahaha </p>
+  <p style= "font-family:verdana; color:white;"> p.s. hi </p>
   <hr>
   <pre style="font-family:verdana; color:white;">
     P.s.
     
-    This is my first time try html
-    
-    I thought it will be hard
-    
-    But I hope I can survive :>
-    
-    If i want, i can!
-    
-    So start to make a move
-    
+   Hi
   </pre>
 </body>
